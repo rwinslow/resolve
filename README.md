@@ -71,7 +71,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 * What you’ve focused on being particularly good at.
 * Between all the trappings of life, you only have enough time to train on 4 skills at most.
 * You can learn the same Skill multiple times. Each takes up a new slot.
-* If any apply to your action, add 1d6 to your dice pool for each
+* Add 1d6 to your dice pool for each skill that applies to your action
 
 ### Resolve
 
