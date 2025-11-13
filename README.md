@@ -52,7 +52,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
   * Windfall: Someone recommends a benefit
 * Each pair of 1s rolled gives you one Burnout and cannot mark any more Resolve unless you spend each of them in the following ways:
   * Knock: Take 1 Wound
-  * Doubt: Mark 1 Resolve
+  * Doubt: Spend 1 Resolve
   * Break: Mark an item you possess as broken
   * Setback: Someone recommends a problem
 
@@ -75,15 +75,15 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 
 ### Resolve
 
-* You have 6 Resolve, representing your determination to face adversity and pursue your goals.
-* Spent Resolve is called Doubt. The result of stress, fear, or inner conflict.
-* When you push yourself beyond your limits, you mark Doubt to add dice.
-  * You may mark 1 Doubt to add \+1d6 to a roll.
-  * You may continue marking Doubt one at a time until you either:
+* You have 6 Resolve
+* Unspent Resolve represents your remaining determination, willpower, and composure.
+* Spent Resolve is called Doubt. It represents your accumulated stress, fear, and inner conflict.
+* You spend Resolve to push yourself to achieve your goals.
+  * Each 1 Resolve spent adds \+1d6 to your dice pool result.
+  * You may continue spending Resolve one at a time until you either:
     * Meet or beat the target number, or
     * Decide the cost isn’t worth it.
-  * When you would mark more Resolve than you have, you take Trauma (see below)
-* Unmarked Resolve represents your remaining willpower and composure.
+  * When you would mark more Resolve than you have, you take a Trauma (see below).
 * You relieve Doubt through Relief Arcs during downtime or brief respites. This represents rest, growth, and recovery.
 * The GM may call for a Resolve roll or a Doubt roll depending on the fiction.
   * Resolve roll \= Roll 1d6 for each unmarked Resolve
