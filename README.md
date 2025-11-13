@@ -41,6 +41,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
   * 15 Expert
   * 18 Master
   * 21+ Impossible
+* You may spend Resolve incrementally to add dice to your result to meet or beat the target number. (Resolve details described below.)
 
 ### Special
 
