@@ -47,13 +47,13 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 
 * Each pair of 6s rolled gives you one Boost to spend in the following ways:
   * Overwhelm: Increase impact
-  * Charge: Store 1d6 to use on any roll
   * Recover: Heal or reduce 1 Wound
+  * Charge: Store 1d6 to use on any roll
   * Windfall: Someone recommends a benefit
 * Each pair of 1s rolled gives you one Burnout and cannot mark any more Resolve unless you spend each of them in the following ways:
   * Knock: Take 1 Wound
-  * Break: Mark an item you as broken
   * Doubt: Mark 1 Resolve
+  * Break: Mark an item you possess as broken
   * Setback: Someone recommends a problem
 
 ### Background
