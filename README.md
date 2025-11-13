@@ -103,9 +103,10 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 * Harm can happen as Wounds, Doubt, lost or broken Gear, or narrative consequences.
 * Wounds may have mechanical effects depending on severity; the GM will specify.
 * You may mark Resolve (adding Doubt) to avoid a wound, at the GM’s discretion depending on severity.
-* Wounds are recovered through Gear and Relief Arcs. (Quick to recover)
-* Resolve is recovered by buying Relief Arcs with Doubt. (Moderate to recover)
-* Trauma is only recovered at the end of Relief Arcs or special cases. (Slow to recover)
+* Recovery speed
+  * Fast - Wounds are recovered through Gear and Relief Arcs.
+  * Moderate - Resolve is recovered by buying Relief Arcs with Doubt.
+  * Slow - Trauma is only recovered at the end of Relief Arcs or special cases.
 
 ### Assist
 
