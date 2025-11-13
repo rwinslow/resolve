@@ -2,7 +2,7 @@
 
 Whenever I've played an RPG, I've felt like the rules never really gave me the flexibility and ease of play that I wanted. Many rulesets have aspects that I like but none really hit the spot. This is my attempt at adapting the things I've learned into a cohesive framework that I and others can build upon easily to have fun quickly with common language and straightforward rules. Hopefully you'll find something you like here that will inspire you.
 
-- Rich Winslow
+Author: Rich Winslow
 
 ## Design Principles
 
