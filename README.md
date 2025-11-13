@@ -32,7 +32,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 
 ### Resolution
 
-* Resolve drama with 1d6, plus 1 additional d6 for each profession, background, skill, item, or other benefit that directly helps your action. Describe how.
+* Resolve drama with 1d6, plus 1 additional d6 for each Profession, Background, Skill, Gear, or other benefit that directly helps your action. Describe how.
 * Roll and add the results. You succeed if the total meets or beats the target number, otherwise you fail.
   * 3 Untrained
   * 6 Novice
@@ -53,7 +53,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 * Each pair of 1s rolled gives you one Burnout and cannot mark any more Resolve unless you spend each of them in the following ways:
   * Knock: Take 1 Wound
   * Doubt: Spend 1 Resolve
-  * Break: Mark an item you possess as broken
+  * Break: Mark 1 Gear you possess as broken
   * Setback: Someone recommends a problem
 
 ### Background
@@ -93,8 +93,8 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 
 * When you would mark more Doubt than you have Resolve remaining, gain 1 Trauma.
   * When you take Trauma, it encapsulates all stress, fatigue, and negativity at that moment so you only ever take one at a time.
-* Each Trauma occupies an Item or Skill slot whether it’s filled or not.
-* You may use your Trauma like a Skill or Item.
+* Each Trauma occupies a Gear or Skill slot whether it’s filled or not.
+* You may use your Trauma like a Skill or Gear.
 * When you gain your 4th Trauma, your character is retired \- they’ve had enough and can’t continue.
 * Trauma is only cleared with your Relief Arcs or very special Gear.
 
@@ -103,7 +103,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 * Harm can happen as Wounds, Doubt, lost or broken Gear, or narrative consequences.
 * Wounds may have mechanical effects depending on severity; the GM will specify.
 * You may mark Resolve (adding Doubt) to avoid a wound, at the GM’s discretion depending on severity.
-* Wounds are recovered through items and Relief Arcs. (Quick to recover)
+* Wounds are recovered through Gear and Relief Arcs. (Quick to recover)
 * Resolve is recovered by buying Relief Arcs with Doubt. (Moderate to recover)
 * Trauma is only recovered at the end of Relief Arcs or special cases. (Slow to recover)
 
@@ -114,7 +114,7 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 ### Gear
 
 * Gear helps you solve problems and achieve goals and can come and go quickly.
-* Larger items take more than one slot.
+* Larger Gear take more than one slot.
 * Broken Gear must be repaired to be usable.
 * You can hold at most 4 pieces of Gear
 
