@@ -196,6 +196,13 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 
 ## GM
 
+### Principles
+
+- Only you, not the players, know all of the details. None of them care where it comes from, only that they get the information they need.
+- There should be enough information to make it easy to tell a great story without requiring that you follow a railroad.
+
+### Locations
+
 Each location has a name, short description, and at most 4 important things there. Each is tagged with an adjective and a noun to make it easy to see what’s what. For example:
 
 - Location: Esperanza Cove
