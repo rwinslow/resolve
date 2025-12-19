@@ -34,13 +34,13 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 - Take Action by rolling 1d6 + 1 extra d6 for each Profession, Background, Skill, Gear, or other benefit that helps your action. Describe how, then roll. The highest die counts.
   - 6 = Success
-  - 4-5 = Partial Success
+  - 4-5 = Success + Cost
   - 1-3 = Fail
 
 #### _Wounds_ make it harder to succeed.
-- 0 Wounds = Partial Success on 4 or 5
-- 1 Wound = Partial Success only on 5
-- 2 Wounds = No Partial Success
+- 0 Wounds = Success + Cost on 4 or 5
+- 1 Wound = Success + Cost only on 5
+- 2 Wounds = No Success + Cost
 
 #### Choose a _Boost_ when you roll a pair of 6s:
 - **Overwhelm**. Increase impact.
