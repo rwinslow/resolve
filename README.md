@@ -7,17 +7,17 @@ Author: Rich Winslow
 ## Design Principles
 
 - Exciting moments often come from just scraping by or lucky rolls.
-- Failure is a choice with clear costs.
+- Failure should have choices.
 - When the end is coming, players should be able to see it in the distance.
-- Riding a death spiral should be a choice.
+- Riding a death spiral should be a choice between costs.
 - Rolling high feels really good.
 - Rolling a handful of dice feels really good.
-- Exerting effort must get you closer to your goal.
+- Waiting for everyone at the table to roll to attempt something isn't fun.
 - The mechanics should provide a consequences with varying levels of permenance.
 - GMs have enough things to do with recordkeeping and storytelling, so use worksheets.
 - GMs generally need a simple, clear toolbox and not railroads or finished products.
 
-Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mist.
+Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, and Legend in the Mist.
 
 ## Core
 
@@ -30,107 +30,87 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
 * 2 Wounds
 * 4 pieces of Gear
 
-### Resolution
+### Take Action
 
-* Resolve drama with 1d6, plus 1 additional d6 for each Profession, Background, Skill, Gear, or other benefit that directly helps your action. Describe how.
-* Roll and add the results. You succeed if the total meets or beats the target number, otherwise you fail.
-  * 3 Untrained
-  * 6 Novice
-  * 9 Skilled
-  * 12 Proficient
-  * 15 Expert
-  * 18 Master
-  * 21+ Impossible
-* You may spend Resolve incrementally to add dice to your result to meet or beat the target number. (Resolve details described below.)
+- Take Action by rolling 1d6 + 1 extra d6 for each Profession, Background, Skill, Gear, or other benefit that helps your action. Describe how, then roll. The highest die counts.
+  - 6 = Success
+  - 4-5 = Partial Success
+  - 1-3 = Fail
 
-### Special
+#### _Wounds_ make it harder to succeed.
+- 0 Wounds = Partial Success on 4 or 5
+- 1 Wound = Partial Success only on 5
+- 2 Wounds = No Partial Success
 
-* Each pair of 6s rolled gives you one Boost to spend in the following ways:
-  * Overwhelm: Increase impact
-  * Recover: Heal or reduce 1 Wound
-  * Charge: Store 1d6 to use on any roll
-  * Windfall: Someone recommends a benefit
-* Each pair of 1s rolled gives you one Burnout and cannot mark any more Resolve unless you spend each of them in the following ways:
-  * Knock: Take 1 Wound
-  * Doubt: Spend 1 Resolve
-  * Break: Mark 1 Gear you possess as broken
-  * Setback: Someone recommends a problem
+#### Choose a _Boost_ when you roll a pair of 6s:
+- **Overwhelm**. Increase impact.
+- **Recover**. Heal or recover 1 Wound.
+- **Charge**. Store 1d6 to use on any roll.
+- **Windfall**. Someone thinks of a benefit.
 
-### Background
-
-* Where you come from and your personal history
-* If aspects of it apply to your action, add 1d6 to your dice pool
-
-### Profession
-
-* The job you’re trained in
-* If aspects of it apply to your action, add 1d6 to your dice pool
-
-### Skills
-
-* What you’ve focused on being particularly good at.
-* Between all the trappings of life, you only have enough time to train on 4 skills at most.
-* You can learn the same Skill multiple times. Each takes up a new slot.
-* Add 1d6 to your dice pool for each skill that applies to your action
+#### _Combat_ is Taking Action with the intent to harm.
+- Your opponent must take a specific number of wounds to be incapacitated. Specific Gear may have a stronger or weaker impact depending on the situation.
 
 ### Resolve
 
-* You have 6 Resolve
-* Unspent Resolve represents your remaining determination, willpower, and composure.
-* Spent Resolve is called Doubt. It represents your accumulated stress, fear, and inner conflict.
-* You spend Resolve to push yourself to achieve your goals.
-  * Each 1 Resolve spent adds \+1d6 to your dice pool result.
-  * You may continue spending Resolve one at a time until you either:
-    * Meet or beat the target number, or
-    * Decide the cost isn’t worth it.
-  * When you would mark more Resolve than you have, you take a Trauma (see below).
-* You relieve Doubt through Relief Arcs during downtime or brief respites. This represents rest, growth, and recovery.
-* The GM may call for a Resolve roll or a Doubt roll depending on the fiction.
-  * Resolve roll \= Roll 1d6 for each unmarked Resolve
-  * Doubt roll \= Roll 1d6 for each marked Resolve
+- **Resolve** is your determination, willpower and composure. You only have **6**. **Each adds 1d6 to your dice pool** and you can spend it **incrementally** on a roll until you succeed or you accept the rolled result. **Spent Resolve is called Doubt**. When you mark more Resolve than you have, take 1 Trauma.
+
+#### Resolve and Doubt Rolls
+- The GM may call for a Resolve or Doubt roll, 1d6 for each you have. Highest value counts, like with Take Action. Results here are unaffected by Wounds.
 
 ### Trauma
 
-* When you would mark more Doubt than you have Resolve remaining, gain 1 Trauma.
-  * When you take Trauma, it encapsulates all stress, fatigue, and negativity at that moment so you only ever take one at a time.
-* Each Trauma occupies a Gear or Skill slot whether it’s filled or not.
-* You may use your Trauma like a Skill or Gear.
-* When you gain your 4th Trauma, your character is retired \- they’ve had enough and can’t continue.
-* Trauma is only cleared with your Relief Arcs or very special Gear.
-
-### Harm
-
-* Harm can happen as Wounds, Doubt, lost or broken Gear, or narrative consequences.
-* Wounds may have mechanical effects depending on severity; the GM will specify.
-* You may mark Resolve (adding Doubt) to avoid a wound, at the GM’s discretion depending on severity.
-* Recovery speed
-  * Fast - Wounds are recovered through Gear and Relief Arcs.
-  * Moderate - Resolve is recovered by buying Relief Arcs with Doubt.
-  * Slow - Trauma is only recovered at the end of Relief Arcs or special cases.
+- **Trauma** occupies a Skill or Gear slot whether it’s filled or not, 1 slot per Trauma. When taking a Trauma, it accounts for all Harm you would accrue at that moment. You may use your Trauma like a Skill or Gear. **When you gain your 4th, your character is retired** - they cannot continue.
 
 ### Assist
 
-* To help another character, describe how you do so and spend at most one Resolve to grant them \+1d6 to their roll.
+- **Assist** another character by describing how and spend one Resolve to grant them +1d6.
+
+### Background
+
+- **Background** is your personal history.
+
+### Profession
+
+- **Profession** is the job you’re trained in.
+
+### Drive
+
+- **Drive** is what motivates you.
+
+### Problem
+
+- **Problem** is what haunts you.
+
+### Skills
+
+- **Skills** are what you're particularly good at. You only have enough time to train on 4, but you can learn the same Skill multiple times. Each occupies a new slot.
+
+### Wounds
+
+- Wounds are harm that happens to you. Each Wound reduces your Partial Success range by one. You may mark Resolve (take Doubt) to **Avoid** a Wound, amount determined by the GM. **When you run out of Wound slots, you take Doubt. When you run out of Resolve, you take Trauma**.
+
+#### You _Recover Harm_ in the following ways:
+- **Wounds** via Gear and Relief Arcs.
+- **Resolve** via buying Relief Arcs with Doubt.
+- **Trauma** via the end of Relief Arcs or special cases.
 
 ### Gear
 
-* Gear helps you solve problems and achieve goals and can come and go quickly.
-* Larger Gear take more than one slot.
-* Broken Gear must be repaired to be usable.
-* You can hold at most 4 pieces of Gear
+- **Gear** helps you solve problems and achieve goals. Larger Gear takes multiple slots. Broken Gear must be repaired to be usable. You can hold at most 4 pieces of Gear.
 
 ### Wealth
 
-* To acquire something valuable, roll 1d6 for each rank in Wealth and compare the total to the item’s Value.
-* If you’re short, you may offer a Favor to make up the difference.
-* The size of the favor depends on how short you are; the GM decides.
-* The GM may call on that favor at any time.
+- **Wealth** lets you acquire valuables. Roll 1d6 for each rank in Wealth, add the results and compare to the item’s Value. **If you’re short, you may offer a Favor** to make up the difference. The size of the favor depends on how short you are; the GM decides. The GM may call on that favor at any time.
 
 ### Bonds
 
-* Bonds represent the relationships that keep you grounded.
-* Each Bond is ranked from 1-4. Bonds break when they reach 0\.
-* To test a Bond, roll 1d6 for each rank in it.
+- **Bonds** represent the relationships that keep you grounded. Each Bond is ranked from 1-4. Bonds break when they reach 0. To test a Bond, roll 1d6 for each rank, highest value counts.
+
+### Relief Arcs
+
+- Relief Arcs represent the moments between crises with recovery, reflection, or change. You spend Doubt on them to grow and recover.
+
 
 ## Making a Character
 
@@ -178,21 +158,21 @@ Rules here are inspired by aspects of Slugblaster, Cypher, and Legend in the Mis
   * You find comfort in their presence. (-1 Doubt, \-1 Wound)
   * The stress of your life tests the relationship (-1 Doubt, \+1 Wound, Roll Bond 6 to prevent \-1 Rank)
   * There’s safety in vulnerability. You reveal what’s really going on (Relieve all Doubt, \-1 Trauma, \+1 Bond, can take no other Relief action this round)
-* Wealth Arc
-  * Your life bleeds into your work. Someone notices something different about you. (-1 Doubt)
-  * You have to make a tough call at work. (-2 Doubt, \+1 Wound)
-  * You figured out how to separate work and life, but that means leaving something behind. (-3 Doubt, \+1 Wound, Forget 1 piece of Gear at home next conflict)
-  * Your efforts are noticed. Management thinks you’re ready for more responsibility. (-3 Doubt, \-1 Trauma, \-All Wounds, \+1 Wealth)
 * Profession Arc
   * Searching on the classifieds shows opportunity. You think about new challenges. (-1 Doubt)
   * You have an interview. Hope you can afford new clothes. (-2 Doubt, Wealth 4 to dress the part and get the job)
-  * You’re fed up and quit in a blaze of glory. (-3 Doubt, \-1 Wealth)
-  * First day at work. Need to learn some names and watch a training video (-3 Doubt, \+1 Wealth, New Profession)
-* Memento Arc
+  * You’re fed up and quit in a blaze of glory. (-3 Doubt, -1 Wealth, Lose Profession)
+  * First day at work. Need to learn some names and watch a training video (-3 Doubt, +1 Wealth, New Profession)
+* Gear Arc
   * You rummage around your old things and find something special. (-1 Doubt, New basic Gear)
   * You do some research to find out more. It has a history. (-2 Doubt)
   * Something about it speaks to you. You build some special connection to it. (-2 Doubt)
   * Its true power reveals itself. Name it. (-3 Doubt, Gear updated with special power)
+* Wealth Arc
+  * Your life bleeds into your work. Someone notices something different about you. (-1 Doubt)
+  * You have to make a tough call at work. (-2 Doubt, +1 Wound)
+  * You figured out how to separate work and life, but that means leaving something behind. (-3 Doubt, +1 Wound, Forget 1 piece of Gear at home next conflict)
+  * Your efforts are noticed. Management thinks you’re ready for more responsibility. (-3 Doubt, -1 Trauma, -All Wounds, +1 Wealth)
 
 ## GM
 
