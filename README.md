@@ -9,7 +9,7 @@ Author: Rich Winslow
 - Exciting moments often come from just scraping by or lucky rolls.
 - Failure should have choices.
 - When the end is coming, players should be able to see it in the distance.
-- Riding a death spiral should be a choice between costs.
+- Players should have choices on how to ride a death spiral.
 - Rolling high feels really good.
 - Rolling a handful of dice feels really good.
 - Waiting for everyone at the table to roll to attempt something isn't fun.
@@ -50,6 +50,8 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 #### _Combat_ is Taking Action with the intent to harm.
 - Your opponent must take a specific number of wounds to be incapacitated. Specific Gear may have a stronger or weaker impact depending on the situation.
+
+![Success Probabilities](images/success-probabilites.png)
 
 ### Resolve
 
