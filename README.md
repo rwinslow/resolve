@@ -49,7 +49,7 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 - **Windfall**. Someone thinks of a benefit.
 
 #### _Combat_ is Taking Action with the intent to harm.
-- Your opponent must take a specific number of wounds to be incapacitated. Specific Gear may have a stronger or weaker impact depending on the situation.
+- Your opponent must take a specific number of wounds to be incapacitated. Some targets may make Gear more or less effective.
 
 ![Success Probabilities](images/success-probabilites.png)
 
@@ -60,13 +60,13 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 #### Resolve and Doubt Rolls
 - The GM may call for a Resolve or Doubt roll, 1d6 for each you have. Highest value counts, like with Take Action. Results here are unaffected by Wounds.
 
-### Trauma
-
-- **Trauma** occupies a Skill or Gear slot whether it’s filled or not, 1 slot per Trauma. When taking a Trauma, it accounts for all Harm you would accrue at that moment. You may use your Trauma like a Skill or Gear. **When you gain your 4th, your character is retired** - they cannot continue.
-
 ### Assist
 
 - **Assist** another character by describing how and spend one Resolve to grant them +1d6.
+
+### Wealth
+
+- **Wealth** lets you acquire valuables. Roll 1d6 for each rank in Wealth, add the results and compare to the item’s Value. **If you’re short, you may offer a Favor** to claim your prize. The size of the favor depends on how short you are; GM decides. GM may call on that favor at any time.
 
 ### Background
 
@@ -88,30 +88,34 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 - **Skills** are what you're particularly good at. You only have enough time to train on 4, but you can learn the same Skill multiple times. Each occupies a new slot.
 
-### Wounds
+### Harm
 
-- Wounds are harm that happens to you. Each Wound reduces your Partial Success range by one. You may mark Resolve (take Doubt) to **Avoid** a Wound, amount determined by the GM. **When you run out of Wound slots, you take Doubt. When you run out of Resolve, you take Trauma**.
+- **Harm** is the accumulation of negative things that happen to you. Harm progresses in the following way: **When you run out of Wounds, you take Doubt. When you run out of Resolve, you take Trauma.**
 
 #### You _Recover Harm_ in the following ways:
 - **Wounds** via Gear and Relief Arcs.
 - **Resolve** via buying Relief Arcs with Doubt.
 - **Trauma** via the end of Relief Arcs or special cases.
 
+### Wounds
+
+- **Wounds** are injuries. They reduce your Partial Success range by one. You may take **2 Doubt or Break Gear to Avoid a Wound.**
+
+### Trauma
+
+- **Trauma** occupies a Skill slot whether it’s filled or not, 1 slot per Trauma. Taking a Trauma accounts for all Harm you would accrue at that moment, so you only take 1 at a time. **When you gain your 4th, your character is retired** - they cannot continue.
+
 ### Gear
 
 - **Gear** helps you solve problems and achieve goals. Larger Gear takes multiple slots. Broken Gear must be repaired to be usable. You can hold at most 4 pieces of Gear.
 
-### Wealth
-
-- **Wealth** lets you acquire valuables. Roll 1d6 for each rank in Wealth, add the results and compare to the item’s Value. **If you’re short, you may offer a Favor** to make up the difference. The size of the favor depends on how short you are; the GM decides. The GM may call on that favor at any time.
-
 ### Bonds
 
-- **Bonds** represent the relationships that keep you grounded. Each Bond is ranked from 1-4. Bonds break when they reach 0. To test a Bond, roll 1d6 for each rank, highest value counts.
+- **Bonds** represent the relationships that keep you grounded. Each Bond is ranked from 1-4. Bonds break when reaching 0. To test a Bond, roll 1d6 for each rank, highest value counts.
 
 ### Relief Arcs
 
-- Relief Arcs represent the moments between crises with recovery, reflection, or change. You spend Doubt on them to grow and recover.
+- Relief Arcs represent moments of recovery, reflection, and change. You spend Doubt on them to grow and recover.
 
 
 ## Making a Character
