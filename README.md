@@ -44,7 +44,7 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 #### Choose a _Boost_ when you roll a pair of 6s:
 - **Overwhelm**. Increase impact.
-- **Recover**. Heal or recover 1 Wound.
+- **Recover**. Heal 1 Wound.
 - **Charge**. Store 1d6 to use on any roll.
 - **Windfall**. Someone thinks of a benefit.
 
@@ -55,7 +55,7 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ### Resolve
 
-- **Resolve** is your determination, willpower and composure. You only have **6**. **Each adds 1d6 to your dice pool** and you can spend it **incrementally** on a roll until you succeed or you accept the rolled result. **Spent Resolve is called Doubt**. When you mark more Resolve than you have, take 1 Trauma.
+- **Resolve** is your determination, willpower and composure. You only have **6**. **Each adds 1d6 to your dice pool** and you can spend it **incrementally** on a roll until you succeed or you accept the rolled result. **Spent Resolve is called Doubt**. When you mark more Resolve than you have, take **1 Trauma**.
 
 #### Resolve and Doubt Rolls
 - The GM may call for a Resolve or Doubt roll, 1d6 for each you have. Highest value counts, like with Take Action. Results here are unaffected by Wounds.
@@ -120,15 +120,12 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ## Making a Character
 
-* Choose your Profession
-* Choose your Background
+* Choose your Background, Profession, Drive, and Problem
 * Choose 1 Skill
-* Choose 1 piece of Gear
+* Choose enough Gear to fill 2 slots
 * Set your Wealth to 1
-* Choose 2 important relationships in your life:
-  * One starts at Bond 2
-  * One starts at Bond 1
-* Write down your motivation
+* Choose 2 important relationships in your life, one at rank 2, the other at rank 1.
+* Choose a name
 
 ### Character Sheet
 
@@ -136,49 +133,43 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ## Relief Arcs
 
-* Relief Arcs represent the moments between crises with recovery, reflection, or change.
-* Each arc is a small story
-  * Setup
-  * Conflict/Rising Action
-  * Climax
-  * Resolution
-* You may use downtime to:
-  * Develop your Background
-  * Change your Profession
-  * Learn a new Skill
-  * Relieve Doubt
-  * Relieve Harm
-  * Relieve Trauma
-  * Acquire special Gear
-  * Form new Bonds or strengthen existing ones
-  * Work on a project
+Each arc is a small story with a **Setup, Conflict, Climax, and Resolution**. The costs and benefits are noted up front. You may complete each arc multiple times as long as you reach its resolution before. You can:
+- Learn a new Skill
+- Form new or strengthen existing Bonds
+- Change your Profession
+- Acquire special Gear
+- Earn greater Wealth
+- Create new arcs to grow how you want
 
+**Skill Arc**
+- (-1 Doubt) You’re inspired to learn something new. What is it and why?
+- (-2 Doubt, +1 Wound) You practice but just can’t get it quite right. Mistakes are made.
+- (-2 Doubt, -1 Bond) You dive into the topic but a relationship suffers. What happened?
+- (-3 Doubt, +1 Skill) You have a breakthrough and everything clicks. What is your Eureka moment?
 
-* Skill Arc
-  * You’re inspired to learn something new. What is it and why? (-1 Doubt)
-  * You practice but just can’t get it quite right. Mistakes are made. (-2 Doubt, \+1 Wound)
-  * You delve deep in the topic but a relationship suffers. (-2 Doubt, \-1 Bond)
-  * You have a breakthrough and everything clicks. Eureka. (-3 Doubt, \+1 Skill)
-* Bond Arc
-  * You formed a new bond or found a special moment with your existing one. (-1 Doubt, \+1 Bond)
-  * You find comfort in their presence. (-1 Doubt, \-1 Wound)
-  * The stress of your life tests the relationship (-1 Doubt, \+1 Wound, Roll Bond 6 to prevent \-1 Rank)
-  * There’s safety in vulnerability. You reveal what’s really going on (Relieve all Doubt, \-1 Trauma, \+1 Bond, can take no other Relief action this round)
-* Profession Arc
-  * Searching on the classifieds shows opportunity. You think about new challenges. (-1 Doubt)
-  * You have an interview. Hope you can afford new clothes. (-2 Doubt, Wealth 4 to dress the part and get the job)
-  * You’re fed up and quit in a blaze of glory. (-3 Doubt, -1 Wealth, Lose Profession)
-  * First day at work. Need to learn some names and watch a training video (-3 Doubt, +1 Wealth, New Profession)
-* Gear Arc
-  * You rummage around your old things and find something special. (-1 Doubt, New basic Gear)
-  * You do some research to find out more. It has a history. (-2 Doubt)
-  * Something about it speaks to you. You build some special connection to it. (-2 Doubt)
-  * Its true power reveals itself. Name it. (-3 Doubt, Gear updated with special power)
-* Wealth Arc
-  * Your life bleeds into your work. Someone notices something different about you. (-1 Doubt)
-  * You have to make a tough call at work. (-2 Doubt, +1 Wound)
-  * You figured out how to separate work and life, but that means leaving something behind. (-3 Doubt, +1 Wound, Forget 1 piece of Gear at home next conflict)
-  * Your efforts are noticed. Management thinks you’re ready for more responsibility. (-3 Doubt, -1 Trauma, -All Wounds, +1 Wealth)
+**Bond Arc**
+- (-1 Doubt, +1 Bond) You formed a new Bond or have a special moment with an existing one. What was it like?
+- (-1 Doubt, -1 Wound) You find comfort in their presence. How do you relax together?
+- (-1 Doubt, +1 Wound, Roll Bond and gain 1 rank on 5 or 6) The stress of your life tests the relationship. What conflict arises?
+- (Clear all Doubt, -1 Trauma, +1 Bond, can take no other Relief action this round) There’s safety in vulnerability. You reveal what’s really going on. What do you say?
+
+**Profession Arc**
+- (-1 Doubt) You find a new opportunity in the classifieds. What is it and what do you think it will be like?
+- (-2 Doubt, Roll Wealth, 4+ to dress the part and get the job) You have an interview. How does it go?
+- (-3 Doubt, -1 Wealth, -Professsion) You quit in a blaze of glory. How does it go down?
+- (-3 Doubt, +1 Wealth, +Profession) First day at work. Who do you meet? How does it go?
+
+**Memento Arc**
+- (-1 Doubt, New basic Gear) You rummage around your old things and find something special. What is it?
+- (-2 Doubt) You do some research to find out more. It has a history. What is that history?
+- (-2 Doubt) It has a soul and you commune with it. Describe what you experience.
+- (-3 Doubt, Gear updated with special power) Its true power reveals itself. What is it?
+
+**Wealth Arc**
+- (-1 Doubt) Your life bleeds into your work. Who notices something is up? What happens?
+- (-2 Doubt, +1 Wound) You have to make a tough call at work. What is that tough call?
+- (-3 Doubt, +1 Wound) You calm down a bad situation and your boss sees. What went wrong and how did it resolve?
+- (-3 Doubt, +1 Wealth, -1 Trauma, -All Wounds, ) Your efforts are noticed. Management thinks you’re ready for more responsibility. What are they?
 
 ## GM
 
