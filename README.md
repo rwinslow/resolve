@@ -147,11 +147,11 @@ Each arc is a small story with a **Setup, Conflict, Climax, and Resolution**. Th
 - (-2 Doubt, -1 Bond) You dive into the topic but a relationship suffers. What happened?
 - (-3 Doubt, +1 Skill) You have a breakthrough and everything clicks. What is your Eureka moment?
 
-**Bond Arc**
-- (-1 Doubt, +1 Bond) You formed a new Bond or have a special moment with an existing one. What was it like?
-- (-1 Doubt, -1 Wound) You find comfort in their presence. How do you relax together?
-- (-1 Doubt, +1 Wound, Roll Bond and gain 1 rank on 5 or 6) The stress of your life tests the relationship. What conflict arises?
-- (Clear all Doubt, -1 Trauma, +1 Bond, can take no other Relief action this round) There’s safety in vulnerability. You reveal what’s really going on. What do you say?
+**Wealth Arc**
+- (-1 Doubt) Your life bleeds into your work. Who notices something is up? What happens?
+- (-2 Doubt, +1 Wound) You have to make a tough call at work. What is that tough call?
+- (-3 Doubt, +1 Wound) You calm down a bad situation and your boss sees. What went wrong and how did it resolve?
+- (-3 Doubt, +1 Wealth, -1 Trauma) Your efforts are noticed. Management thinks you’re ready for more responsibility. What are they?
 
 **Profession Arc**
 - (-1 Doubt) You find a new opportunity in the classifieds. What is it and what do you think it will be like?
@@ -165,18 +165,56 @@ Each arc is a small story with a **Setup, Conflict, Climax, and Resolution**. Th
 - (-2 Doubt) It has a soul and you commune with it. Describe what you experience.
 - (-3 Doubt, Gear updated with special power) Its true power reveals itself. What is it?
 
-**Wealth Arc**
-- (-1 Doubt) Your life bleeds into your work. Who notices something is up? What happens?
-- (-2 Doubt, +1 Wound) You have to make a tough call at work. What is that tough call?
-- (-3 Doubt, +1 Wound) You calm down a bad situation and your boss sees. What went wrong and how did it resolve?
-- (-3 Doubt, +1 Wealth, -1 Trauma, -All Wounds, ) Your efforts are noticed. Management thinks you’re ready for more responsibility. What are they?
+**Bond Arc**
+- (-1 Doubt, +1 Bond) You formed a new Bond or have a special moment with an existing one. What was it like?
+- (-2 Doubt, -1 Wound) You find comfort in their presence. How do you relax together?
+- (-2 Doubt, +1 Wound, Roll Bond and gain 1 rank on 5 or 6) The stress of your life tests the relationship. What conflict arises?
+- (Clear all Doubt, -1 Trauma, +1 Bond, can take no other Relief action this round) There’s safety in vulnerability. You reveal what’s really going on. What do you say?
 
 ## GM
 
 ### Principles
 
-- Only you, not the players, know all of the details. None of them care where it comes from, only that they get the information they need.
-- There should be enough information to make it easy to tell a great story without requiring that you follow a railroad.
+- Only you know all of the details. None of the players know if everything or nothing is planned, only that they have fun and get the information they need.
+- Low- to no-prep play with improvisation _tends_ to result in more fun and emergent stories.
+- Ask the players questions about the world to fill in gaps. It's not all on you to fill out the world.
+
+### Crafting the Story
+
+All great stories have a Setup, Conflict, Climax, and Resolution. You're not writing all the details of a story, though. You're playing an RPG with other people, and that story will be written at the table together. There are really only two points you'll need to think about at the outset. Most of everything else is, or at least can be, improvised.
+
+- Core Conflict: What is the main problem that the players need to solve?
+- Setup: How do the players get a clue that this conflict exists?
+
+### Clairvoyance
+
+To get players to contribute to the story, you can grant them minor Clairvoyance. Each player receives 2 Clairvoyance tokens at the start of a session and they can spend them to answer a specific question about a scene and, in return, receive a specific benefit. Use these when you're not sure what to do in a scene, want to offload some of the cognitive load, create a more collaborative world, or simply re-engage players.
+
+Use your judgement on whether their answer adds enough to the story to be worthy of the benefit.
+
+Here are a few options on how to handle offering players a chance to spend Clairvoyance:
+1. Give players a few question options
+2. Give players one question but choose their benefit
+2. Allow the players to choose which question they want to answer to receive the desired benefit.
+
+#### Questions and Benefits
+
+X can represent a character, object, scene, or anything else in the game world.
+
+| Question                                   | Benefit                                        |
+|--------------------------------------------|------------------------------------------------|
+| What does X truly desire?                  | Auto Success when you offer what they desire   |
+| What does X look like?                     | You always know where to find X                |
+| What does X smell like?                    | Repair 1 Broken Gear                           |
+| What does X sound like?                    | +1 to next Wealth roll                         |
+| What's the first thing you notice about X? | +1d6 on next social interaction with X         |
+| What is a positive memory you have with X? | Heal 1 Wound                                   |
+| What is a negative memory you have with X? | Next successful attack applies +1 Wound        |
+| How do you know X?                         | +1 rank to any Bond                            |
+| Who is X allied with?                      | +1d6 when using X's alliance as leverage       |
+| Who hurt X in their past?                  | +1d6 when using X's source of pain as leverage |
+| What's a rumor people tell about X?        | Next Failed roll is upgraded to Success + Cost |
+| What's the weirdest thing about X?         | Avoid next Wound for free                      |
 
 ### Locations
 
