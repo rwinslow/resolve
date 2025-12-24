@@ -99,7 +99,7 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ### Wounds
 
-- **Wounds** are injuries. They reduce your Partial Success range by one. You may take **2 Doubt or Break Gear to Avoid a Wound.**
+- **Wounds** are short-term injuries. Each reduces your Partial Success range by 1. You may take **2 Doubt or Break Gear to Avoid a Wound.**
 
 ### Trauma
 
