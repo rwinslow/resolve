@@ -103,7 +103,7 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ### Trauma
 
-- **Trauma** prevents use of the Skill where it's marked, occupied or not. **1 slot per Trauma**. Taking a Trauma accounts for all Harm you would accrue at that moment, so you only take 1 at a time. **When you gain your 4th, your character is retired** - they cannot continue.
+- **Trauma** is long-lasting pain. It disables a Skill slot and prevents its use. **1 slot per Trauma**. Taking a Trauma accounts for all Harm at that moment, so you only take 1 at a time. **When you gain your 4th, your character is retired** - they cannot continue.
 
 ### Gear
 
