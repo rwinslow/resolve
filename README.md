@@ -32,10 +32,10 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ### Take Action
 
-- Take Action by rolling 1d6 + 1 extra d6 for each Profession, Background, Skill, Gear, or other benefit that helps your action. Describe how, then roll. The highest die counts.
-  - 6 = Success
-  - 4-5 = Success + Cost
-  - 1-3 = Fail
+- Take Action  by rolling 1d6 + 1 extra d6 for each Profession, Background, Skill, Gear, or other benefit that helps your action. Describe how they help, then roll. Highest die counts. All actions work this way. When the outcome is dramatic and unknown, roll Take Action. Successes and Costs must make sense in your story.
+  - **6 = Success.** Get what you want.
+  - **4-5 = Success + Cost.** Pay something and get what you want.
+  - **1-3 = Fail + Cost.** Pay something and don't get what you want.
 
 #### _Wounds_ make it harder to succeed.
 - 0 Wounds = Success + Cost on 4 or 5
@@ -43,13 +43,10 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 - 2 Wounds = No Success + Cost
 
 #### Choose a _Boost_ when you roll a pair of 6s:
-- **Overwhelm**. Increase impact.
+- **Overwhelm**. Dramatically increase impact.
 - **Recover**. Heal 1 Wound.
 - **Charge**. Store 1d6 to use on any roll.
 - **Windfall**. Someone thinks of a benefit.
-
-#### _Combat_ is Taking Action with the intent to harm.
-- Your opponent must take a specific number of wounds to be incapacitated. Some targets may make Gear more or less effective.
 
 ![Success Probabilities](images/success-probabilites.png)
 
@@ -62,19 +59,11 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ### Assist
 
-- **Assist** another character by describing how and spend one Resolve to grant them +1d6.
+- **Assist** another character by describing how to grant them +1d6. GM gets final say.
 
 ### Wealth
 
-- **Wealth** lets you acquire valuables. Roll 1d6 for each rank in Wealth, add the results and compare to the item’s Value. **If you’re short, you may offer a Favor** to claim your prize. The size of the favor depends on how short you are; GM decides. GM may call on that favor at any time.
-
-### Background
-
-- **Background** is your personal history.
-
-### Profession
-
-- **Profession** is the job you’re trained in.
+- **Wealth** lets you acquire valuables. Roll 1d6 for each rank in Wealth, **add** the results and compare to the item’s Value. **If you’re short, you may offer a Favor** to claim your prize. The size of the favor depends on how short you are; GM decides. GM may call on that favor at any time.
 
 ### Drive
 
@@ -83,6 +72,14 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 ### Problem
 
 - **Problem** is what haunts you.
+
+### Background
+
+- **Background** is your personal history.
+
+### Profession
+
+- **Profession** is the job you’re trained in.
 
 ### Skills
 
@@ -103,7 +100,7 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 
 ### Trauma
 
-- **Trauma** is long-lasting pain. Each disables a Skill slot and prevents its use. **1 slot per Trauma**. Taking a Trauma accounts for all Harm at that moment, so you only take 1 at a time. **When you gain your 4th, your character is retired** - they cannot continue.
+- **Trauma** is long-lasting pain. Each disables a Skill slot and prevents its use. **1 slot per Trauma**. Taking a Trauma accounts for all Harm at that moment, so you only take 1 at a time. **When all Trauma slots are marked, your character is retired** - they cannot continue.
 
 ### Gear
 
@@ -116,16 +113,17 @@ Rules here are inspired by aspects of Blades in the Dark, Slugblaster, Cypher, a
 ### Relief Arcs
 
 - Relief Arcs represent moments of recovery, reflection, and change. You spend Doubt on them to grow and recover.
-
+- Each arc is a small story with a **Setup, Conflict, Climax, and Resolution**. The costs and benefits are noted up front. You may complete each Arc multiple times as long as you reach the resolution. If you don't see one you want to play out, work with your GM to build one.
 
 ## Making a Character
 
-* Choose your Background, Profession, Drive, and Problem
-* Choose 1 Skill
-* Choose enough Gear to fill 2 slots
-* Set your Wealth to 1
+* Choose your Background, Profession.
+* Choose your Drive and Problem.
+* Choose 1 Skill.
+* Choose enough Gear to fill 2 slots.
+* Set your Wealth to 1.
 * Choose 2 important relationships in your life, one at rank 2, the other at rank 1.
-* Choose a name
+* Choose a name.
 
 ### Character Sheet
 
@@ -140,6 +138,12 @@ Each arc is a small story with a **Setup, Conflict, Climax, and Resolution**. Th
 - Acquire special Gear
 - Earn greater Wealth
 - Create new arcs to grow how you want
+
+**Problem Arc**
+- (-1 Doubt) You thought you put it in the past but something triggered you. What happened?
+- (-2 Doubt) The trigger wasn't a one-off. Your problem keeps showing up at the wrong time. Where and when did it manifest?
+- (-3 Doubt) You can't run from it anymore. You have to face it. How do you overcome it?
+- (-4 Doubt, -Old Problem, +New Problem, +1 Benefit - GM gives options) You find your resolution and can let go. How does this play out? (Write down your New Problem after this.)
 
 **Skill Arc**
 - (-1 Doubt) You’re inspired to learn something new. What is it and why?
